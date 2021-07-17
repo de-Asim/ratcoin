@@ -1,0 +1,1 @@
+alert("This website is only for educational purpose. All the informations carried by this website are false!");
